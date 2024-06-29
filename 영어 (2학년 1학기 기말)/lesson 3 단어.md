@@ -1,3 +1,16 @@
+- **represent**: 나타내다, 대표하다
+- **SF**: 공상 과학
+- **be covered with: ~으로 덮이다
+- **garbage**: 쓰레기
+- **exist**: 존재하다
+- **mess**: 엉망인 상태
+- **protect**: 보호하다
+- **recommend**: 추천하다
+- **harmful**: 해로운
+- **reusable**: 재사용할 수 있는
+- **tick**: 체크 표시하다, 체크 표시
+- **earn**: 얻다, 벌다
+- **faucet**: 수도꼭지
 - **annoying**: 짜증나는
 - **take**: 참다, 견디다
 - **litter**: 버리다, 어지럽히다
