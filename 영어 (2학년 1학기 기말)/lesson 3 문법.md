@@ -22,16 +22,16 @@
  **access**는 **전치사 to**와 같이 쓰인다.
 
 #### Set out: To leave a place and begin a trip(장소를 떠나 여행을 떠나다)
-- After a three-day, the travelers **set out** again.
+- After a three-day, the travelers **set out** again.   
   3일 간의 휴식 후에, 그 여행객들은 다시 출발했다.
 
 #### Used to: To have taken place in the past, but not any longer(과거에 일어났지만, 지금은 더 이상 그렇지 않다)
-- I **used to** enjoy gardening, but I don't have time for it now.
+- I **used to** enjoy gardening, but I don't have time for it now.   
   나는 정원 손질을 즐겼었지만, 지금은 그것을 할 시간이 없다.
 
 > [!warning]
-  **「used + to부정사」**sms '~하곤 했다'라는 뜻을 갖는 조동사로 과거의 습관을 나타낸다.   
-  use의 수동태 표현이 아님을 유의한다.
+  **「used + to부정사」** 는 '~하곤 했다'라는 뜻을 갖는 조동사로 과거의 습관을 나타낸다.   
+  **use**의 수동태 표현이 아님을 유의한다.
 
 > [!important]
 **set out**은 여행과 관련된 표현이고,   
