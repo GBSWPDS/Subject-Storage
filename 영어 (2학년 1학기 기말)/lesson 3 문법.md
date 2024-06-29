@@ -34,5 +34,14 @@
   **use**의 수동태 표현이 아님을 유의한다.
 
 > [!important]
-**set out**은 여행과 관련된 표현이고,   
-**used to**는 조동사처럼 동사 앞에서 동사의 뜻을 보조한다.
+ **set out**은 여행과 관련된 표현이고,   
+ **used to**는 조동사처럼 동사 앞에서 동사의 뜻을 보조한다.
+
+#### noun + borne
+- **Waterborne** diseases are caused by drinking dirty **water**.   
+  수인성 질병들은 더러운 물을 마셔서 생긴다.
+- **Mosquito-borne** diseases are spread through mosquito bites.   
+  모기 원인 질병들은 모기에 물려서 퍼진다.
+
+> [!important]
+명사에 **-borne**을 붙이면 **'~으로부터 태어난, ~으로 인한'** 이라는 뜻의 형용사가 된다.
