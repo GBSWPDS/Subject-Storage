@@ -37,7 +37,7 @@
  **set out**은 여행과 관련된 표현이고,   
  **used to**는 조동사처럼 동사 앞에서 동사의 뜻을 보조한다.
 
-#### noun + borne
+#### noun + '-borne': 명사 + '-borne'
 - **Waterborne** diseases are caused by drinking dirty **water**.   
   수인성 질병들은 더러운 물을 마셔서 생긴다.
 - **Mosquito-borne** diseases are spread through mosquito bites.   
@@ -45,3 +45,17 @@
 
 > [!important]
 명사에 **-borne**을 붙이면 **'~으로부터 태어난, ~으로 인한'** 이라는 뜻의 형용사가 된다.
+
+#### 관계부사 why
+- This is **the reason for which** we often forget how important water is.
+- This is **the reason why** we often forget how important water is.
+- This is **the reason** we often forget how important water is.
+- This is **why** we often forget how important water is.   
+  이것이 우리가 종종 물이 얼마나 중요한지를 종종 잊어버리는 이유입니다.
+
+> [!warning]
+**This[That] is why ...** 은 '이것이 ~한 이유이다.'라는 뜻으로 **why** 다음에는 결과가 나온다.   
+이와 반대로 **This[That] is because ...** 는 '이것은 ~ 때문이다.'라는 뜻으로, **bacause** 다음에 원인이 나온다.
+
+> [!important]
+관계부사 **why**는 **for which**와 바꿔 쓸 수 있으며 **the reason why**에서 **the reason**이나 **why** 중 하나를 생략할 수 있다.   
