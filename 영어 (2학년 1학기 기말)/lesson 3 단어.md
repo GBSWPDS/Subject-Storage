@@ -1,6 +1,6 @@
 - **represent**: 나타내다, 대표하다
 - **SF**: 공상 과학
-- **be covered with: ~으로 덮이다
+- **be covered with**: ~으로 덮이다
 - **garbage**: 쓰레기
 - **exist**: 존재하다
 - **mess**: 엉망인 상태
