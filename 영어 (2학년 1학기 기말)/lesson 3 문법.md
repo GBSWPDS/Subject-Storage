@@ -1,6 +1,6 @@
 ## Language in Focus 🔍
 
-#### Embarrassment: 당황
+### Embarrassment: 당황
 - Last year, she missed 15 days of school to avoid such **embarrassments**.   
   지난해에, 그녀는 그런 당혹감을 피하기 위해서 학교를 15일이나 빠졌다.   
 - I turned red with **embarrassment** when I fell down the stairs.   
@@ -12,7 +12,7 @@
  얼굴이 홍당무같이 빨개지는 것을 **trun[go] beet red**라고 표현하기도 한다.   
  이 외에도 화가 난 경우에도 사용하기도 한다.   
 
-#### Access: 접근, 이용
+### Access: 접근, 이용
 - **Access** to clean water means everything to them.   
   깨끗한 물에 접근하는[얻는] 것은 그들에게 모든 것을 의미한다.
 - Another big advantage of the Internet is easy **access** to information.   
@@ -21,11 +21,11 @@
 > [!important]
  **access**는 **전치사 to**와 같이 쓰인다.
 
-#### Set out: To leave a place and begin a trip(장소를 떠나 여행을 떠나다)
+### Set out: To leave a place and begin a trip(장소를 떠나 여행을 떠나다)
 - After a three-day, the travelers **set out** again.   
   3일 간의 휴식 후에, 그 여행객들은 다시 출발했다.
 
-#### Used to: To have taken place in the past, but not any longer(과거에 일어났지만, 지금은 더 이상 그렇지 않다)
+### Used to: To have taken place in the past, but not any longer(과거에 일어났지만, 지금은 더 이상 그렇지 않다)
 - I **used to** enjoy gardening, but I don't have time for it now.   
   나는 정원 손질을 즐겼었지만, 지금은 그것을 할 시간이 없다.
 
@@ -37,7 +37,7 @@
  **set out**은 여행과 관련된 표현이고,   
  **used to**는 조동사처럼 동사 앞에서 동사의 뜻을 보조한다.
 
-#### noun + '-borne': 명사 + '-borne'
+### noun + '-borne': 명사 + '-borne'
 - **Waterborne** diseases are caused by drinking dirty **water**.   
   수인성 질병들은 더러운 물을 마셔서 생긴다.
 - **Mosquito-borne** diseases are spread through mosquito bites.   
@@ -46,7 +46,9 @@
 > [!important]
 명사에 **-borne**을 붙이면 **'~으로부터 태어난, ~으로 인한'** 이라는 뜻의 형용사가 된다.
 
-#### 관계부사 why
+## Grammar Study 📖 
+
+### 관계부사 why
 - This is **the reason for which** we often forget how important water is.
 - This is **the reason why** we often forget how important water is.
 - This is **the reason** we often forget how important water is.
@@ -58,4 +60,19 @@
 이와 반대로 **This[That] is because ...** 는 '이것은 ~ 때문이다.'라는 뜻으로, **bacause** 다음에 원인이 나온다.
 
 > [!important]
-관계부사 **why**는 **for which**와 바꿔 쓸 수 있으며 **the reason why**에서 **the reason**이나 **why** 중 하나를 생략할 수 있다.   
+관계부사 **why**는 **for which**와 바꿔 쓸 수 있으며,   
+**the reason why**에서 **the reason**이나 **why** 중 하나를 생략할 수 있다.   
+
+### without 가정법
+- If there were no water, how would your life change?   
+- **Without water**, how **would** your life change?
+  물이 없다면, 여러분의 삶은 어떻게 변할까요 ?
+
+> [!warning]
+**without 가정법 과거**   
+가정법 과거는 현재 사실의 반대나 이루어지기 어려운 현재 상황을 가정할 때 쓰며,   
+**If + 주어 + 동사의 과거형, 주어 + 조동사의 과거형 + 동사원형** 의 형태이다.   
+'~이 없다면'이라는 가정을 나타낼 때는 **If** 절을 **Without + 명사** 로 바꿔 표현 할 수 있다.
+
+> [!important]
+**without** 가정법은 현재 사실의 반대나 이루어지기 어려운 현재 상황을 가정할 때 쓴다.
