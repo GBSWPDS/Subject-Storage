@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/Bongyang-National-Guard/School/assets/133763382/76d655b1-7fcf-4a4b-8779-58443971302b"  width="100px"/>
   
-  ## 경북소프트웨어고등학교 학습 자료실
+  ## 경북소프트웨어고등학교 교과 학습 자료실
 </div>  <br/>
 
 이곳은 **경북소프트웨어고등학교 학습 자료실**입니다.   
