@@ -17,7 +17,7 @@
   난 환경 문제에 관심이 있는 사람들에게 이 영화를 추천하고 싶다.   
 
 > [!important]
- **Only WALL-E, a cleaning robot,**는 콤마를 이용하여 왼쪽과 오른쪽의 동격을 나타낸다.
+ **Only WALL-E, a cleaning robot,** 는 콤마를 이용하여 왼쪽과 오른쪽의 동격을 나타낸다.
  **who**는 anyone을 수식하는 형태로써 관계대명사의 역할을 한다.
 
 
