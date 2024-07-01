@@ -18,11 +18,11 @@
 > [!important]
  **intruder**는 동사 intrude에 '~하는 사람'을 뜻하는 접미사 -er이 붙은 형태이다.
 
-### Keep a record of: To surprisingly become known or discovered after some time(시간이 지난 뒤에 놀라면서 알게 되거나 드러나게 되다)
+### Keep a record of: To store information by writing it down or putting it into a computer(적거나 컴퓨터에 기록해서 정보를 저장하다)
 - You should **keep a record of** your expenses to save money.
   너는 돈을 절약하기 위해서 지출을 기록해야 한다.
 
-### turned out: To store information by writing it down or putting it into a computer(적거나 컴퓨터에 기록해서 정보를 저장하다)
+### turned out: To surprisingly become known or discovered after some time(시간이 지난 뒤에 놀라면서 알게 되거나 드러나게 되다)
 - The truth **turned out** to be stranger than we had expected.
   진실은 우리가 예상했던 것보다 더 이상한 것으로 밝혀졌다.
 
