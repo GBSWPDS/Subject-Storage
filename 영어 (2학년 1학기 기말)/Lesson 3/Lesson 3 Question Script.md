@@ -27,7 +27,7 @@
 - M : They're all over the place   
   남 : 온 바닥을 다 뒤덮고 있어.   
 - W : What do you think they're advertising?  
-  여 : 그들이 광고하는 것에 어떻게 생각해?   
+  여 : 그들이 광고하는 것에 무엇이라 생각해?   
 - M : I'm guessing mostly restaurant.   
   남 : 난 거의 대부분 식당이라고 추측해.   
 - W : Do you think that's an effective way to advertise?   
